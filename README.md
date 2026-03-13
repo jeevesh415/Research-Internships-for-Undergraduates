@@ -2,7 +2,7 @@
 
 # <p align="center"> Research Internships for Undergraduates </p>
 
-#### <p align="center"> A curated, non-exhaustive list of research internship opportunities for undergraduate students worldwide. </p>
+#### <p align="center"> This is a non-exhaustive list of opportunities available to Undergraduate students. Many of these positions are only focused towards Indian students. </p>
 
 > [!TIP]
 > Know a program that's missing or has a broken link? Submit an issue or pull request — we review and merge contributions regularly.
